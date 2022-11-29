@@ -1,2 +1,2 @@
 # TpaJpaAssos
-Tp Jpa with tables associated :  SpringBoot,   Jpa/FetchEagerLazy ,  SpringData
+Tp Jpa with associations between the tables :  SpringBoot,   Jpa/FetchEagerLazy ,  SpringData
